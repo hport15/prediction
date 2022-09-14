@@ -1,5 +1,4 @@
-# salary-prediction
-# Predicting Food Sales
+# Salary Prediction
 
 **Author**: Hadassah Port
 
